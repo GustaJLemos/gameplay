@@ -5,7 +5,7 @@ import { ButtonAdd } from '../../components/atoms/ButtonAdd';
 import { ListHeader } from '../../components/atoms/ListHeader';
 import { CategorySelect } from '../../components/molecules/CategorySelect';
 import { AppointmentProps } from '../../types/AppointmentProps';
-import { Profile } from '../Profile';
+import { Profile } from '../../components/molecules/Profile';
 
 import { styles } from './styles';
 import { ListDivider } from '../../components/atoms/ListDivider';
